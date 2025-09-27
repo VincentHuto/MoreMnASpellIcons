@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.vincenthuto.moremnaspellicons.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "moremagichemlabels.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
